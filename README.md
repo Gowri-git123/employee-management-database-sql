@@ -6,7 +6,6 @@ to manage employee and department information.
 
 ## Technologies
 - Microsoft SQL Server
-- SQL
 
 ## Features
 - Employee and department management
